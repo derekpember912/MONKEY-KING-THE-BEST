@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/DEREK's STUFF/SCENES/START.unity
+    guid: 161c715f11efb814897eb6ccfc692697
+  - enabled: 1
+    path: Assets/DEREK's STUFF/SCENES/FULL MAP.unity
+    guid: 78446b69c62d0524a809554b9e97ed2c
+  - enabled: 1
+    path: Assets/DEREK's STUFF/SCENES/END_GAME.unity
+    guid: dc91041099671e24f84992c87772b722
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
